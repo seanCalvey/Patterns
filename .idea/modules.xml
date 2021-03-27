@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" filepath="$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator_Pattern/Iterator_Pattern.iml" filepath="$PROJECT_DIR$/Iterator_Pattern/Iterator_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Patterns.iml" filepath="$PROJECT_DIR$/.idea/Java_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton_Pattern/Singleton_Pattern.iml" filepath="$PROJECT_DIR$/Singleton_Pattern/Singleton_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/VisitorPattern/VisitorPattern.iml" filepath="$PROJECT_DIR$/VisitorPattern/VisitorPattern.iml" />
     </modules>
   </component>

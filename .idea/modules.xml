@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter_Pattern/Adapter_Pattern.iml" filepath="$PROJECT_DIR$/Adapter_Pattern/Adapter_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator_Pattern/Decorator_Pattern.iml" filepath="$PROJECT_DIR$/Decorator_Pattern/Decorator_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" filepath="$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator_Pattern/Iterator_Pattern.iml" filepath="$PROJECT_DIR$/Iterator_Pattern/Iterator_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Patterns.iml" filepath="$PROJECT_DIR$/.idea/Java_Patterns.iml" />
